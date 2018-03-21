@@ -1,4 +1,4 @@
-Install [Spring Cloud CLI](http://sd01.witt-ad.wittgruppe.eu:10003/management/info)
+Install [Spring Cloud CLI](https://cloud.spring.io/spring-cloud-cli/)
 
 ## Start Eureka
 ```
